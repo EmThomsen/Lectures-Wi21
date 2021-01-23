@@ -14,3 +14,4 @@ Course materials are organized by week.
 | 08 | Geospatial Analysis | [08_text](https://github.com/COGS108/Lectures-Wi21/tree/master/08_text) | 
 | 09 | Dimensionality Reduction & Data Science Jobs  | [09_geospatial](https://github.com/COGS108/Lectures-Wi21/tree/master/09_geospatial)  |
 | 10 | Data Science Communication & The Future  | [10_communication](https://github.com/COGS108/Lectures-Wi21/tree/master/10_communication)   | 
+| XX | Discussion Lab Answers  | [XX_lab_answers](https://github.com/COGS108/Lectures-Wi21/tree/master/XX_lab_answers)   | 
